@@ -1,0 +1,21 @@
+Column ;Meaning
+;
+study;Study from which the information was gathered
+sample;Number assigning the ID of each effect extracted from studies (sample)
+Larcenist_type;Type of larcenist (nectar robber or thief)
+type_study;Whether the study was experimental or observational
+tips_phylo;Species in the tips of phylogenetic tree used to create the covariance matrix
+sp_plant;Focal plant species used in each study
+sp_genus;Genus of the focal plant species
+plant_family;Family of the focal plant species
+self_compatible;Whether the focal plant species is self-compatible or not 
+players;Identity of larcenists and pollinators interacting with the flowers (larcenist-robber)
+Type_of_metric;Type of metric quantified in the original study
+n_larcenist;Sample size of plant group interacting with larcenists
+mean_larcenist;Mean value from plant group interacting with larcenists
+sd_larcenist;Standard deviation from the plant group interacting with larcenists
+n_control;Sample size of the plant group not interacting with larcenists
+mean_control;Mean value from plant group not interacting with larcenists
+sd_control;Standard deviation from the plant group not interacting with larcenists
+yi;Effect size (Hedges'g)
+vi;Variance of effect size 
